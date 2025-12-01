@@ -94,5 +94,4 @@ La aplicación permite:
 ### **1. Clonar el repositorio**
 
 ```bash
-git clone <URL-del-repositorio>
-cd employee-crud
+git clone https://github.com/jdavilag2/empleado-repositorio.git
