@@ -67,11 +67,11 @@ El frontend se construyó utilizando:
 
 La aplicación permite:
 
-✔ Listar empleados  
-✔ Crear nuevos empleados  
-✔ Editar registros  
-✔ Eliminar empleados  
-✔ Validar campos del formulario  
+- Listar empleados  
+- Crear nuevos empleados  
+- Editar registros  
+- Eliminar empleados  
+- Validar campos del formulario  
 
 ---
 
