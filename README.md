@@ -60,7 +60,7 @@ El backend se construyó con **ASP.NET Core Web API**, aplicando buenas práctic
 El frontend se construyó utilizando:
 
 - **Standalone Components**
-- Angular Material (opcional)
+- Angular Material
 - Servicios para consumir la API
 - Ruteo modular
 - **Reactive Forms**
@@ -75,7 +75,7 @@ La aplicación permite:
 
 ---
 
-## Requisitos del Sistema
+## Tecnologías
 
 ### **Backend (.NET)**  
 - .NET 8 SDK o superior  
