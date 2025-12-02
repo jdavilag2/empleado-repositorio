@@ -84,6 +84,8 @@ La aplicación permite:
 - Visual Studio / VS Code  
 
 ### **Frontend (Angular)**  
+<img width="1335" height="277" alt="image" src="https://github.com/user-attachments/assets/e95c66d7-b3e8-4cdd-8894-163a916d35a5" />
+
 - Node.js 18+  
 - Angular CLI 17+  
 
