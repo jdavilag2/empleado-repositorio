@@ -85,6 +85,8 @@ La aplicación permite:
 
 ### **Frontend (Angular)**  
 <img width="1335" height="277" alt="image" src="https://github.com/user-attachments/assets/e95c66d7-b3e8-4cdd-8894-163a916d35a5" />
+<img width="648" height="513" alt="image" src="https://github.com/user-attachments/assets/99365bf7-79f0-4e73-889d-de15c3318eba" />
+
 
 - Node.js 18+  
 - Angular CLI 17+  
